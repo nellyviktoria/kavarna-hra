@@ -1,4 +1,5 @@
 # ☕ Kavárna
+Autor: Vavříčková Nelly Viktoria
 
 **Kavárna** je textová hra vytvořená v jazyce Python, ve které se hráč ujímá malé kavárny zděděné po babičce. Cílem je během **7 dní zachránit kavárnu před zavřením**, vydělat dostatek peněz a udržet si dobrou reputaci.
 
